@@ -68,6 +68,8 @@ Audio Deepfake Detection
 ## Part 2: Implementation
 For implementation, I will select the End-to-End Dual-Branch Network Towards Synthetic Speech Detection model. This choice is motivated by its excellent reported performance metrics (EER: 0.80%, t-DCF: 0.021) and its ability to effectively differentiate between synthetic and real speech. The dual-branch architecture, which processes spectral and temporal features separately, provides strong performance in detecting AI-generated human speech while being adaptable for real-time applications.
 
+Implementation Plan for the Dual-Branch Network
+Data Preprocessing:
 
 
 
